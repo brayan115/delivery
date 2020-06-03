@@ -12,4 +12,4 @@ create table usuario(
 );
 
 insert into usuario(login,clave,tipo,estado) 
-values ('jfarfan','123','P','A');
+values ('bblas','123','P','A');
